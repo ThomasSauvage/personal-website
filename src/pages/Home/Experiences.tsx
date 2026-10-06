@@ -25,6 +25,24 @@ export const Experiences = () => {
         <List>
           <ListItemL>
             {{
+              fr: "Déploiement de la stack IA de Mistral sur l'infrastructure on-premise et cloud des clients",
+              en: "Deploying Mistral's AI stack on customer on-premise and cloud infrastructure",
+            }}
+          </ListItemL>
+          <ListItemL>
+            {{
+              fr: "Conception de plateformes pour optimiser les déploiements on-premise et la maintenabilité à grande échelle",
+              en: "Building platforms to streamline on-premise deployments and maintainability at scale",
+            }}
+          </ListItemL>
+          <ListItemL>
+            {{
+              fr: "Utilisation de Kubernetes et de technologies cloud-native pour garantir des déploiements IA efficaces et scalables",
+              en: "Leveraging Kubernetes and cloud-native technologies to ensure efficient and scalable AI deployments",
+            }}
+          </ListItemL>
+          <ListItemL>
+            {{
               fr: "À Paris, France",
               en: "In Paris, France",
             }}
