@@ -83,8 +83,8 @@ export const Volunteering = () => {
           en: "Open Food Facts",
         }}
         jobTitle={{
-          fr: "Administrateur système",
-          en: "System administrator",
+          fr: "Conseil d'administration & Administrateur système",
+          en: "Board of Directors & System administrator",
         }}
         dates={{
           fr: "Juin 2025 - Présent",
@@ -117,8 +117,14 @@ export const Volunteering = () => {
           </ListItemL>
           <ListItemL>
             {{
-              fr: "13 serveurs bare-metal dans 5 datacenters différents. Certians en hébergement dédié et d'autres en cloud public.",
-              en: "13 bare-metal servers in 5 different datacenters. Some in dedicated hosting and others in public cloud.",
+              fr: "Membre du conseil d'administration depuis juillet 2026, contribuant à façonner la direction stratégique de l'organisation",
+              en: "Serving on the Board of Directors since July 2026, helping to shape the strategic direction of the organization",
+            }}
+          </ListItemL>
+          <ListItemL>
+            {{
+              fr: "13 serveurs bare-metal dans 5 datacenters différents. Certians en hébergement dédié et d'autres en cloud public",
+              en: "13 bare-metal servers in 5 different datacenters. Some in dedicated hosting and others in public cloud",
             }}
           </ListItemL>
           <ListItemL>

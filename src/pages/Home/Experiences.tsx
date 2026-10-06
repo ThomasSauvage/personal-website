@@ -13,8 +13,8 @@ export const Experiences = () => {
           en: "Mistral AI",
         }}
         jobTitle={{
-          fr: "Ingénieur stagiaire en IA appliquée",
-          en: "Applied AI Engineer Intern",
+          fr: "Ingénieur stagiaire en déploiement IA appliquée",
+          en: "Applied AI deployment engineer intern",
         }}
         dates={{
           fr: "Juillet 2026 - Aujourd'hui",
