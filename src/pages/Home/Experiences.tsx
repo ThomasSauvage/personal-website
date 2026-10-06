@@ -9,12 +9,12 @@ export const Experiences = () => {
     <Section title={{ fr: "Expérience", en: "Experience" }}>
       <ExperienceLine
         company={{
-          fr: "Mistral AI",
-          en: "Mistral AI",
+          fr: "Mistral AI · Stage",
+          en: "Mistral AI · Internship",
         }}
         jobTitle={{
-          fr: "Ingénieur stagiaire en déploiement IA appliquée",
-          en: "Applied AI deployment engineer intern",
+          fr: "Ingénieur en déploiement IA appliquée",
+          en: "Applied AI deployment engineer",
         }}
         dates={{
           fr: "Juillet 2026 - Aujourd'hui",
@@ -52,12 +52,12 @@ export const Experiences = () => {
 
       <ExperienceLine
         company={{
-          fr: "Cisco",
-          en: "Cisco",
+          fr: "Cisco · Stage",
+          en: "Cisco · Internship",
         }}
         jobTitle={{
-          fr: "Ingénieur stagiaire de recherche en cloud & réseaux",
-          en: "Cloud & networking research engineer intern",
+          fr: "Ingénieur de recherche en cloud & réseaux",
+          en: "Cloud & networking research engineer",
         }}
         dates={{
           fr: "Avril - Août 2025",
@@ -101,12 +101,12 @@ export const Experiences = () => {
 
       <ExperienceLine
         company={{
-          fr: "Free - Groupe Iliad",
-          en: "Free - Iliad Group",
+          fr: "Free - Groupe Iliad · Stage",
+          en: "Free - Iliad Group · Internship",
         }}
         jobTitle={{
-          fr: "Ingénieur logiciel stagiaire",
-          en: "Software engineer intern",
+          fr: "Ingénieur logiciel",
+          en: "Software engineer",
         }}
         dates={{
           fr: "Juin - Septembre 2024",
